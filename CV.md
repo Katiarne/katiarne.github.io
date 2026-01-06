@@ -1,3 +1,3 @@
 layout: page
 title: "CV"
-permalink: /about
+permalink: https://katiarne.github.io/
